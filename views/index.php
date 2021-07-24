@@ -12,7 +12,18 @@
 <div class="row">
     <div class="col-lg-12">
 
+        <div class="col-lg-12">
 
+
+            <div class="row">
+                <div class="col-md-12 text-center block">
+                    <h2>Upload CSV file with users</h2>
+                    <form class="form-horizontal" method="post" enctype="multipart/form-data">
+                        <input type="file" name="csv" class="input">
+                        <button class="btn btn-success">Upload</button>
+                    </form>
+                </div>
+            </div>
 
                     </div>
 

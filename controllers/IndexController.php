@@ -12,6 +12,8 @@ class IndexController extends Controller
 
     public function index()
     {
+        $this->view->render($this->pageView, $this->pageData); // Print our page with other data
+
     }
 
 }

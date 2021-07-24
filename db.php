@@ -6,7 +6,7 @@ class DataBase
     const USER = "root";
     const PASSWORD = '';
     const HOST = "localhost";
-    const DB = "task";
+    const DB = "test";
 
     public static function connectDB()
     {
